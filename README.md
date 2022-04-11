@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 My name is Rochelle Nixon and I am a 2nd year Computer Science student at UCI!
+
+At UCI, I am planning on specializing in information but my interests also lie in Web Development. Some of the languages I have worked with include Python, C++, Java, and JavaScript. 
+
+**Add me on LinkedIn [here](https://www.linkedin.com/in/rochellenixon/)!**
 
 <!--
 **rochellenixon/rochellenixon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
